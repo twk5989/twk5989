@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 <!--
-**twk5989/twk5989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**안녕하세요, 제 이름은 김태우입니다.
+여기는 제가 프론트엔드 개발자를 꿈꾸며 작업한 내용들을 담고 있습니다.
+
+Hello, my name is Taewoo Kim. 👋  
+This is where I share the work I have done while pursuing my dream of becoming a frontend developer.
 
 Here are some ideas to get you started:
 
